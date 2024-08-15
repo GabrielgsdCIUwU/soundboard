@@ -4,8 +4,7 @@ on:
   push:
     branches:
       - main  # Cambia esto si tu rama principal es diferente
-  workflow_dispatch:
-    s
+  workflow_dispatch:  # Permite ejecutar el flujo de trabajo manualmente desde la interfaz de GitHub
 
 jobs:
   build:
@@ -20,7 +19,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '22'  # Puedes ajustar la versión según tu necesidad
+          node-version: '22'  # Ajusta la versión de Node.js según tu necesidad
 
       # Paso 3: Instalar dependencias
       - name: Install dependencies
@@ -43,4 +42,4 @@ jobs:
           git commit -m "Update audio files JSON"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_BOT_TOKEN }}  # Usa el secreto GH_BOT_TOKEN
