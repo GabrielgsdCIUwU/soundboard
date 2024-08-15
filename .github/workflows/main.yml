@@ -1,0 +1,46 @@
+name: Generate and Upload Audio JSON
+
+on:
+  push:
+    branches:
+      - main  # Cambia esto si tu rama principal es diferente
+  workflow_dispatch:
+    s
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Paso 1: Chequear el código del repositorio
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Paso 2: Configurar Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '22'  # Puedes ajustar la versión según tu necesidad
+
+      # Paso 3: Instalar dependencias
+      - name: Install dependencies
+        run: npm install
+
+      # Paso 4: Ejecutar el script para generar el JSON
+      - name: Generate JSON file
+        run: node gen.js
+
+      # Paso 5: Configurar Git
+      - name: Configure Git
+        run: |
+          git config user.name "AlexDeveloperBot"
+          git config user.email "hosting@alexdevuwu.com"
+
+      # Paso 6: Cometer y subir el archivo JSON generado
+      - name: Commit and push JSON file
+        run: |
+          git add audio_files.json
+          git commit -m "Update audio files JSON"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
