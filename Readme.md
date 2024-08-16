@@ -3,7 +3,8 @@
 ## Descripción
 Este proyecto es un **Soundboard** diseñado para reproducir diferentes efectos de sonido y clips de audio. El repositorio contiene varias carpetas, cada una con una colección específica de sonidos. A continuación, se detallan las carpetas incluidas y el contenido de cada una.
 
-
+## Versión web:
+Prueba los sonidos en esta página web: https://gabrielgsd.developer.li/soundboard
 
 ### 1. 2023 Sound Effects
 Esta carpeta contiene efectos de sonido actualizados para el año 2023. Aquí encontrarás efectos modernos y populares utilizados en diversos contextos, desde producciones de video hasta presentaciones.
