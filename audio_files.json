@@ -1140,6 +1140,16 @@
     "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/LQ Music/Splashing Around but it's low quality.mp3"
   },
   {
+    "name": "TETAS-Distorsion.mp3",
+    "path": "LQ Music/TETAS-Distorsion.mp3",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/LQ Music/TETAS-Distorsion.mp3"
+  },
+  {
+    "name": "TETAS-LQ.wav",
+    "path": "LQ Music/TETAS-LQ.wav",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/LQ Music/TETAS-LQ.wav"
+  },
+  {
     "name": "The angry birds theme but it’s low quality.mp3",
     "path": "LQ Music/The angry birds theme but it’s low quality.mp3",
     "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/LQ Music/The angry birds theme but it’s low quality.mp3"
@@ -1425,6 +1435,11 @@
     "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/Random Sounds/Muy Buenas Tardes.wav"
   },
   {
+    "name": "No hablo taka taka señor, ni siquiera lo voy a intentar.mp3",
+    "path": "Random Sounds/No hablo taka taka señor, ni siquiera lo voy a intentar.mp3",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/Random Sounds/No hablo taka taka señor, ni siquiera lo voy a intentar.mp3"
+  },
+  {
     "name": "Penguinz0 he’s pulling his c＊＊＊ out HD.mp3",
     "path": "Random Sounds/Penguinz0 he’s pulling his c＊＊＊ out HD.mp3",
     "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/Random Sounds/Penguinz0 he’s pulling his c＊＊＊ out HD.mp3"
@@ -1668,11 +1683,6 @@
     "name": "oh-no,-cringe-[rus]-By-Tuna.mp3",
     "path": "Random Sounds/oh-no,-cringe-[rus]-By-Tuna.mp3",
     "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/Random Sounds/oh-no,-cringe-[rus]-By-Tuna.mp3"
-  },
-  {
-    "name": "piano dross.mp3",
-    "path": "Random Sounds/piano dross.mp3",
-    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/Random Sounds/piano dross.mp3"
   },
   {
     "name": "pipipi.mp3",
@@ -2115,6 +2125,11 @@
     "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/Shitpost/Half-Life 2 Crowbar.mp3"
   },
   {
+    "name": "Heavy is Dead.mp3",
+    "path": "Shitpost/Heavy is Dead.mp3",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/Shitpost/Heavy is Dead.mp3"
+  },
+  {
     "name": "Hello Hello FNAF.mp3",
     "path": "Shitpost/Hello Hello FNAF.mp3",
     "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/Shitpost/Hello Hello FNAF.mp3"
@@ -2315,6 +2330,11 @@
     "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/Shitpost/Orale Ps ya es martes aaaaaaaaahhhhhhhh.mp3"
   },
   {
+    "name": "PERO QUE IMBÉCIL MEME.mp3",
+    "path": "Shitpost/PERO QUE IMBÉCIL MEME.mp3",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/Shitpost/PERO QUE IMBÉCIL MEME.mp3"
+  },
+  {
     "name": "PS2 Startup Screen.mp3",
     "path": "Shitpost/PS2 Startup Screen.mp3",
     "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/Shitpost/PS2 Startup Screen.mp3"
@@ -2383,11 +2403,6 @@
     "name": "QUIÉN COÑO ES FEDE.mp3",
     "path": "Shitpost/QUIÉN COÑO ES FEDE.mp3",
     "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/Shitpost/QUIÉN COÑO ES FEDE.mp3"
-  },
-  {
-    "name": "Regular Show Intro.mp3",
-    "path": "Shitpost/Regular Show Intro.mp3",
-    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/Shitpost/Regular Show Intro.mp3"
   },
   {
     "name": "Retard alert.mp3",
@@ -3050,6 +3065,51 @@
     "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/Spiderman/spiderman hola.mp3"
   },
   {
+    "name": "Antonio Lobato Anuncio Compramostucoche.es.mp3",
+    "path": "anuncios/Antonio Lobato Anuncio Compramostucoche.es.mp3",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/anuncios/Antonio Lobato Anuncio Compramostucoche.es.mp3"
+  },
+  {
+    "name": "Anuncio KFC 202-5 (Versión 1).mp3",
+    "path": "anuncios/Anuncio KFC 202-5 (Versión 1).mp3",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/anuncios/Anuncio KFC 202-5 (Versión 1).mp3"
+  },
+  {
+    "name": "COMPRO CHATARRA AUDIO SE COMPRA CHATARRA CUÑA SPOT PUBLICITARIO.mp3",
+    "path": "anuncios/COMPRO CHATARRA AUDIO SE COMPRA CHATARRA CUÑA SPOT PUBLICITARIO.mp3",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/anuncios/COMPRO CHATARRA AUDIO SE COMPRA CHATARRA CUÑA SPOT PUBLICITARIO.mp3"
+  },
+  {
+    "name": "Cinta flexible.mp3",
+    "path": "anuncios/Cinta flexible.mp3",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/anuncios/Cinta flexible.mp3"
+  },
+  {
+    "name": "Es rosa y sabe a fresa.mp3",
+    "path": "anuncios/Es rosa y sabe a fresa.mp3",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/anuncios/Es rosa y sabe a fresa.mp3"
+  },
+  {
+    "name": "LA CHORRIMANGUERA.mp3",
+    "path": "anuncios/LA CHORRIMANGUERA.mp3",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/anuncios/LA CHORRIMANGUERA.mp3"
+  },
+  {
+    "name": "LABATAMANTA.mp3",
+    "path": "anuncios/LABATAMANTA.mp3",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/anuncios/LABATAMANTA.mp3"
+  },
+  {
+    "name": "Slap Chop Infomercial (Spanish⧸Español version) - Vince Offer.mp3",
+    "path": "anuncios/Slap Chop Infomercial (Spanish⧸Español version) - Vince Offer.mp3",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/anuncios/Slap Chop Infomercial (Spanish⧸Español version) - Vince Offer.mp3"
+  },
+  {
+    "name": "albion online es un mmorpg no lineal.mp3",
+    "path": "anuncios/albion online es un mmorpg no lineal.mp3",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/anuncios/albion online es un mmorpg no lineal.mp3"
+  },
+  {
     "name": "1 hour of shreksophone__S7WEVLbQ-Y.mp3",
     "path": "download/1 hour of shreksophone__S7WEVLbQ-Y.mp3",
     "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/download/1 hour of shreksophone__S7WEVLbQ-Y.mp3"
@@ -3158,6 +3218,11 @@
     "name": "Coffin dance.mp3",
     "path": "musica/Coffin dance.mp3",
     "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/musica/Coffin dance.mp3"
+  },
+  {
+    "name": "Counter-Strike： Global Offensive - Main Menu Music Theme Extended.mp3",
+    "path": "musica/Counter-Strike： Global Offensive - Main Menu Music Theme Extended.mp3",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/musica/Counter-Strike： Global Offensive - Main Menu Music Theme Extended.mp3"
   },
   {
     "name": "Directed by Robert B. Weide.mp3",
@@ -3343,6 +3408,11 @@
     "name": "Tobu  Candyland NCS Release.mp3",
     "path": "musica/Tobu  Candyland NCS Release.mp3",
     "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/musica/Tobu  Candyland NCS Release.mp3"
+  },
+  {
+    "name": "Traktion - Mission ASCII [Mission ASCII].mp3",
+    "path": "musica/Traktion - Mission ASCII [Mission ASCII].mp3",
+    "rawUrl": "https://raw.githubusercontent.com/GabrielgsdCIUwU/soundboard/main/musica/Traktion - Mission ASCII [Mission ASCII].mp3"
   },
   {
     "name": "Trance-009 Sound System Dreamscape.mp3",
